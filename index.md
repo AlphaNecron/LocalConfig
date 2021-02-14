@@ -1,5 +1,3 @@
-# LocalConfigManager
-A simple C# library to help you save and load application config from local machine.
 ## Dependency
 - Newtonsoft JSON.NET
 ## Usage
