@@ -1,6 +1,9 @@
 ## Dependency
-- Newtonsoft JSON.NET
+
+- Newtonsoft JSON.NET  
+
 ## Usage
+
 ```
 static void Main(string[] args)
 {
@@ -23,4 +26,3 @@ class DemoObject
     public int DemoInteger;
     public bool DemoBoolean;
 }
-```
